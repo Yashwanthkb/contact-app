@@ -1,0 +1,8 @@
+select * from logininfo;
+INSERT INTO `logininfo`.`logininfo`(`id`,`name`,`email`,`password`)VALUES(1, "ram","ram@xyz.com", "12345");
+INSERT INTO `logininfo`.`logininfo`(`id`,`name`,`email`,`password`)VALUES(1, "surya","surya@xyz.com", "12345");
+INSERT INTO `logininfo`.`logininfo`(`id`,`name`,`email`,`password`)VALUES(1, "vishnu","vishnu@xyz.com", "12345");
+INSERT INTO `logininfo`.`logininfo`(`id`,`name`,`email`,`password`)VALUES(1, "Basavaraj","Basavaraj@xyz.com", "12345");
+
+
+select * from logininfo
